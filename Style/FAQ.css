@@ -237,7 +237,7 @@
 	transform: matrix(1,0,0,1,0,0);
 }
 #Home {
-	left: 946px;
+	left: 776px;
 	top: 98px;
 	position: absolute;
 	overflow: visible;
@@ -249,11 +249,11 @@
 	font-family: Noto Sans;
 	font-style: normal;
 	font-weight: bold;
-	font-size: 20px;
+	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
 #Services {
-	left: 1045px;
+	left: 900px;
 	top: 98px;
 	position: absolute;
 	overflow: visible;
@@ -265,11 +265,11 @@
 	font-family: Noto Sans;
 	font-style: normal;
 	font-weight: bold;
-	font-size: 20px;
+	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
 #About_us {
-	left: 1170px;
+	left: 1050px;
 	top: 98px;
 	position: absolute;
 	overflow: visible;
@@ -281,11 +281,11 @@
 	font-family: Noto Sans;
 	font-style: normal;
 	font-weight: bold;
-	font-size: 20px;
+	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
 #FAQ_ba {
-	left: 1298px;
+	left: 1388px;
 	top: 98px;
 	position: absolute;
 	overflow: visible;
@@ -297,7 +297,23 @@
 	font-family: Noto Sans;
 	font-style: normal;
 	font-weight: bold;
-	font-size: 20px;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Locations {
+	left: 1218px;
+	top: 98px;
+	position: absolute;
+	overflow: visible;
+	width: 41px;
+	white-space: nowrap;
+	line-height: 26px;
+	margin-top: -3px;
+	text-align: center;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
 #LOGO_png {
